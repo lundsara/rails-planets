@@ -9,7 +9,7 @@ Tonight you'll be making a little baby rails app about PLANETS!!!! It'll be supe
 You'll be creating a bunch of routes & views using this object!
 
 - `/`: Should have a welcome message and a link to the planets page
-- `/planets`: Has a list of all the planets
+- `/planets`: Has a list of all the planets! (Don't hardcode this list! Just use the object. [Maybe one of our ruby methods could help...](https://git.generalassemb.ly/wdi-nyc-delorean/LECTURE_U04_D01_Ruby_101#iteration))
 - `/planets/:planet`: Returns information about that specific planet
 - `/planets/random`: Returns a random planet
 
